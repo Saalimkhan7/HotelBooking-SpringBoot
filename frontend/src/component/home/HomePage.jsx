@@ -19,11 +19,11 @@ const HomePage = () => {
             {/* HEADER / BANNER ROOM SECTION */}
             <section>
                 <header className="header-banner">
-                    <img src="./assets/images/hotel.webp" alt="Hotel Hotel" className="header-image" />
+                    <img src="./assets/images/hotel.webp" alt="Hotel " className="header-image" />
                     <div className="overlay"></div>
                     <div className="animated-texts overlay-content">
                         <h1>
-                            Welcome to <span className="Hotel-color">Hotel Hotel</span>
+                            Welcome to <span className="Hotel-color">Hotel </span>
                         </h1><br />
                         <h3>Step into a haven of comfort and care</h3>
                     </div>
@@ -36,7 +36,7 @@ const HomePage = () => {
 
             <h4><a className="view-rooms-home" href="/rooms">All Rooms</a></h4>
 
-            <h2 className="home-services">Services at <span className="Hotel-color">Hotel Hotel</span></h2>
+            <h2 className="home-services">Services at <span className="Hotel-color">Dev Hotel</span></h2>
 
             {/* SERVICES SECTION */}
             <section className="service-section"><div className="service-card">
