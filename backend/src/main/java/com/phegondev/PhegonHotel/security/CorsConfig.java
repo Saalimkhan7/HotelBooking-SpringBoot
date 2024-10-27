@@ -1,4 +1,4 @@
-package com.phegondev.PhegonHotel.security;
+package com.Hotel.HotelManagement.security;
 
 
 import org.springframework.context.annotation.Bean;

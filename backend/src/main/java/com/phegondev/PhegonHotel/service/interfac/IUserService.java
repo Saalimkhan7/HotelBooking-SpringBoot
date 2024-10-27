@@ -1,8 +1,8 @@
-package com.phegondev.PhegonHotel.service.interfac;
+package com.Hotel.HotelManagement.service.interfac;
 
-import com.phegondev.PhegonHotel.dto.LoginRequest;
-import com.phegondev.PhegonHotel.dto.Response;
-import com.phegondev.PhegonHotel.entity.User;
+import com.Hotel.HotelManagement.dto.LoginRequest;
+import com.Hotel.HotelManagement.dto.Response;
+import com.Hotel.HotelManagement.entity.User;
 
 public interface IUserService {
     Response register(User user);

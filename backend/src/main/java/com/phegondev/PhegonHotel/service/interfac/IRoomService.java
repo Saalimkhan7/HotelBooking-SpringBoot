@@ -1,6 +1,6 @@
-package com.phegondev.PhegonHotel.service.interfac;
+package com.Hotel.HotelManagement.service.interfac;
 
-import com.phegondev.PhegonHotel.dto.Response;
+import com.Hotel.HotelManagement.dto.Response;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.math.BigDecimal;

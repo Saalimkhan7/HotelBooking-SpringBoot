@@ -1,4 +1,4 @@
-package com.phegondev.PhegonHotel.dto;
+package com.Hotel.HotelManagement.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.Data;

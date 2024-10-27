@@ -1,6 +1,6 @@
-package com.phegondev.PhegonHotel.repo;
+package com.Hotel.HotelManagement.repo;
 
-import com.phegondev.PhegonHotel.entity.User;
+import com.Hotel.HotelManagement.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

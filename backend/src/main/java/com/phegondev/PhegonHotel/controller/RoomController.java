@@ -1,9 +1,9 @@
-package com.phegondev.PhegonHotel.controller;
+package com.Hotel.HotelManagement.controller;
 
 
-import com.phegondev.PhegonHotel.dto.Response;
-import com.phegondev.PhegonHotel.service.interfac.IBookingService;
-import com.phegondev.PhegonHotel.service.interfac.IRoomService;
+import com.Hotel.HotelManagement.dto.Response;
+import com.Hotel.HotelManagement.service.interfac.IBookingService;
+import com.Hotel.HotelManagement.service.interfac.IRoomService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.ResponseEntity;

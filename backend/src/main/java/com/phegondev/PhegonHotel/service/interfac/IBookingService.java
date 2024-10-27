@@ -1,7 +1,7 @@
-package com.phegondev.PhegonHotel.service.interfac;
+package com.Hotel.HotelManagement.service.interfac;
 
-import com.phegondev.PhegonHotel.dto.Response;
-import com.phegondev.PhegonHotel.entity.Booking;
+import com.Hotel.HotelManagement.dto.Response;
+import com.Hotel.HotelManagement.entity.Booking;
 
 public interface IBookingService {
 

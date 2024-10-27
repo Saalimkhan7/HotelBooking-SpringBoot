@@ -1,8 +1,8 @@
-package com.phegondev.PhegonHotel.security;
+package com.Hotel.HotelManagement.security;
 
 
-import com.phegondev.PhegonHotel.service.CustomUserDetailsService;
-import com.phegondev.PhegonHotel.utils.JWTUtils;
+import com.Hotel.HotelManagement.service.CustomUserDetailsService;
+import com.Hotel.HotelManagement.utils.JWTUtils;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

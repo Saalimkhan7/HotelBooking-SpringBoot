@@ -1,6 +1,6 @@
-package com.phegondev.PhegonHotel.security;
+package com.Hotel.HotelManagement.security;
 
-import com.phegondev.PhegonHotel.service.CustomUserDetailsService;
+import com.Hotel.HotelManagement.service.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

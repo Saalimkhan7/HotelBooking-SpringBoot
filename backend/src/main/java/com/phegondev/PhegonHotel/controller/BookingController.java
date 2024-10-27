@@ -1,9 +1,9 @@
-package com.phegondev.PhegonHotel.controller;
+package com.Hotel.HotelManagement.controller;
 
 
-import com.phegondev.PhegonHotel.dto.Response;
-import com.phegondev.PhegonHotel.entity.Booking;
-import com.phegondev.PhegonHotel.service.interfac.IBookingService;
+import com.Hotel.HotelManagement.dto.Response;
+import com.Hotel.HotelManagement.entity.Booking;
+import com.Hotel.HotelManagement.service.interfac.IBookingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;

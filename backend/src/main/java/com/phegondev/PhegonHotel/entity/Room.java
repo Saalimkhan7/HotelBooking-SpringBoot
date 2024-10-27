@@ -1,4 +1,4 @@
-package com.phegondev.PhegonHotel.entity;
+package com.Hotel.HotelManagement.entity;
 
 
 import jakarta.persistence.*;

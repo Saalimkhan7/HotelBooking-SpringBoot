@@ -1,14 +1,14 @@
-package com.phegondev.PhegonHotel.service.impl;
+package com.Hotel.HotelManagement.service.impl;
 
-import com.phegondev.PhegonHotel.dto.LoginRequest;
-import com.phegondev.PhegonHotel.dto.Response;
-import com.phegondev.PhegonHotel.dto.UserDTO;
-import com.phegondev.PhegonHotel.entity.User;
-import com.phegondev.PhegonHotel.exception.OurException;
-import com.phegondev.PhegonHotel.repo.UserRepository;
-import com.phegondev.PhegonHotel.service.interfac.IUserService;
-import com.phegondev.PhegonHotel.utils.JWTUtils;
-import com.phegondev.PhegonHotel.utils.Utils;
+import com.Hotel.HotelManagement.dto.LoginRequest;
+import com.Hotel.HotelManagement.dto.Response;
+import com.Hotel.HotelManagement.dto.UserDTO;
+import com.Hotel.HotelManagement.entity.User;
+import com.Hotel.HotelManagement.exception.OurException;
+import com.Hotel.HotelManagement.repo.UserRepository;
+import com.Hotel.HotelManagement.service.interfac.IUserService;
+import com.Hotel.HotelManagement.utils.JWTUtils;
+import com.Hotel.HotelManagement.utils.Utils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

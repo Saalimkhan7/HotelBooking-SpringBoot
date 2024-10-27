@@ -1,4 +1,4 @@
-package com.phegondev.PhegonHotel.dto;
+package com.Hotel.HotelManagement.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;

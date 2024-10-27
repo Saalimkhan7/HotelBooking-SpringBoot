@@ -1,7 +1,7 @@
-package com.phegondev.PhegonHotel.service;
+package com.Hotel.HotelManagement.service;
 
-import com.phegondev.PhegonHotel.exception.OurException;
-import com.phegondev.PhegonHotel.repo.UserRepository;
+import com.Hotel.HotelManagement.exception.OurException;
+import com.Hotel.HotelManagement.repo.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

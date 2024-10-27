@@ -1,4 +1,4 @@
-package com.phegondev.PhegonHotel.exception;
+package com.Hotel.HotelManagement.exception;
 
 public class OurException extends RuntimeException {
 

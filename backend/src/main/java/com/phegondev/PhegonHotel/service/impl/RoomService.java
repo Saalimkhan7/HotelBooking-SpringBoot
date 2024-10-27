@@ -1,14 +1,14 @@
-package com.phegondev.PhegonHotel.service.impl;
+package com.Hotel.HotelManagement.service.impl;
 
-import com.phegondev.PhegonHotel.dto.Response;
-import com.phegondev.PhegonHotel.dto.RoomDTO;
-import com.phegondev.PhegonHotel.entity.Room;
-import com.phegondev.PhegonHotel.exception.OurException;
-import com.phegondev.PhegonHotel.repo.BookingRepository;
-import com.phegondev.PhegonHotel.repo.RoomRepository;
-import com.phegondev.PhegonHotel.service.AwsS3Service;
-import com.phegondev.PhegonHotel.service.interfac.IRoomService;
-import com.phegondev.PhegonHotel.utils.Utils;
+import com.Hotel.HotelManagement.dto.Response;
+import com.Hotel.HotelManagement.dto.RoomDTO;
+import com.Hotel.HotelManagement.entity.Room;
+import com.Hotel.HotelManagement.exception.OurException;
+import com.Hotel.HotelManagement.repo.BookingRepository;
+import com.Hotel.HotelManagement.repo.RoomRepository;
+import com.Hotel.HotelManagement.service.AwsS3Service;
+import com.Hotel.HotelManagement.service.interfac.IRoomService;
+import com.Hotel.HotelManagement.utils.Utils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;

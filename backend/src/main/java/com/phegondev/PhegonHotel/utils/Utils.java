@@ -1,11 +1,11 @@
-package com.phegondev.PhegonHotel.utils;
+package com.Hotel.HotelManagement.utils;
 
-import com.phegondev.PhegonHotel.dto.BookingDTO;
-import com.phegondev.PhegonHotel.dto.RoomDTO;
-import com.phegondev.PhegonHotel.dto.UserDTO;
-import com.phegondev.PhegonHotel.entity.Booking;
-import com.phegondev.PhegonHotel.entity.Room;
-import com.phegondev.PhegonHotel.entity.User;
+import com.Hotel.HotelManagement.dto.BookingDTO;
+import com.Hotel.HotelManagement.dto.RoomDTO;
+import com.Hotel.HotelManagement.dto.UserDTO;
+import com.Hotel.HotelManagement.entity.Booking;
+import com.Hotel.HotelManagement.entity.Room;
+import com.Hotel.HotelManagement.entity.User;
 
 import java.security.SecureRandom;
 import java.util.List;

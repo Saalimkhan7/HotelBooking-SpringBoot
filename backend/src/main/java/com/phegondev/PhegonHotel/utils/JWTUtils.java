@@ -1,4 +1,4 @@
-package com.phegondev.PhegonHotel.utils;
+package com.Hotel.HotelManagement.utils;
 
 
 import io.jsonwebtoken.Claims;

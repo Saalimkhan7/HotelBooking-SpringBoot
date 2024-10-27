@@ -1,10 +1,10 @@
-package com.phegondev.PhegonHotel.controller;
+package com.Hotel.HotelManagement.controller;
 
 
-import com.phegondev.PhegonHotel.dto.LoginRequest;
-import com.phegondev.PhegonHotel.dto.Response;
-import com.phegondev.PhegonHotel.entity.User;
-import com.phegondev.PhegonHotel.service.interfac.IUserService;
+import com.Hotel.HotelManagement.dto.LoginRequest;
+import com.Hotel.HotelManagement.dto.Response;
+import com.Hotel.HotelManagement.entity.User;
+import com.Hotel.HotelManagement.service.interfac.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
